@@ -8,7 +8,7 @@ This is a flight booking system that allows you to:
 - Check the status of your flight
 - Make flight reservations
 - Purchase tickets
-
+[![Run on Repl.it](https://repl.it/badge/github/umran23/UMAIR)](https://repl.it/github/umran23/UMAIR)
 # The building blocks used are:
 
 - python version 3.6
